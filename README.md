@@ -10,6 +10,6 @@ Il transforme des données complexes en un véritable outil d’aide à la déci
 
 
 # Outils utilisés :
-                  ### Python 
-                  ### Dash (graphiques)
+                   Python 
+                   Dash (graphiques)
   
